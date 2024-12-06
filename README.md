@@ -1,8 +1,6 @@
-Sure! Below is the full **functional C code** for your typing game along with the updated **README.md** file that includes instructions for modifying the time limit.
+### Instructions **`Manual`** File:
 
-### Updated **`README.md`** File:
 
-```markdown
 # Speed-Typing Game
 
 This project aims to increase your typing speed Octocats! 😄 Here, by me, the author of this project, I allow you to use it, play with my code, and enjoy some fun typing games! 🖥️✨
@@ -38,25 +36,25 @@ If you'd like to change the time limit, simply modify the value of the `TIME_LIM
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/Click2Hack/Speed-Typing.git
    ```
 
 2. Navigate to the project folder:
 
    ```bash
-   cd your-repository-name
+   cd Speed-Typing
    ```
 
 3. Compile the code:
 
    ```bash
-   gcc -o typing_game typing_game.c
+   gcc -o Typing_game Typing_game.c
    ```
 
 4. Run the game:
 
    ```bash
-   ./typing_game
+   ./Typing_game
    ```
 
 ## License
@@ -68,7 +66,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Key Points in the Code and README:
 
 1. **Modify the Time Limit**:
-   - In the `README.md`, there's a section that explains how players can modify the time limit by changing the `TIME_LIMIT` value.
+   - In the `README.md`, there's a section that explains how players can modify the time limit by changing the `TIME_LIMIT` value in the 6th line of  ###Code.
    - In the code, this is defined at the top:
      ```c
      #define TIME_LIMIT 20 // Modify this line to change the time limit in seconds
@@ -86,5 +84,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Next Steps:
 1. **Clone the Repository**: You can clone the repo from GitHub and modify the time limit in the code as described in the `README.md`.
    
-
-3. **Enjoy the Game**: After compiling and running the program, test your typing speed!
+2. **Enjoy the Game**: After compiling and running the program, test your typing speed!
+Author says ~ There is nothing u can do , u can just do what u really can . So stop worrying about what u cannot and focus on what u can really do:). Love u octocats!!
+For support, please visit my Ko-fi page: [Ko-fi](https://ko-fi.com/putin)
