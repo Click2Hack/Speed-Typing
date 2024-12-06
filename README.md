@@ -59,7 +59,7 @@ If you'd like to change the time limit, simply modify the value of the `TIME_LIM
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache-2.0 license License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -88,5 +88,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Author says ~ There is nothing u can do , u can just do what u really can . So stop worrying about what u cannot and focus on what u can really do:). Love u octocats!!
 
 ### For support this project
-** Please donate me🫰here **
+**Please donate me🫰here**
 **`☕Ko-fi page:`** [Ko-fi](https://ko-fi.com/putin)
