@@ -4,7 +4,7 @@
 - [How to Play](how-to-Play)
 - [Modify Time Limit](#modify-Time-Limit)
 - [Setup and Usage](#setup-and-usage)
-- [Requirements](#Requirements)
+- [Requirements](#requirements)
 - [License](#license)
 - [Support](#support-Me)
 
