@@ -1,5 +1,5 @@
 ---
-## **Table of Contents**
+
 - [Features](#features)
 - [How to Play](how-to-Play)
 - [Modify Time Limit](#modify-Time-Limit)
