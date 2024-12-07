@@ -1,6 +1,19 @@
 ### Instructions **`Manual`** File:
 
 
+---
+
+## **Table of Contents**
+- [Instructions ](#Instructions-Manual-File:)
+- [Features](#features)
+- [How to Play](#How-to-Play)
+- [Modify Time Limit](#Modify-Time-Limit)
+- [Setup and Usage](#setup-and-usage)
+- [Requirements](#Requirements)
+- [License](#license)
+- [Support](#support)
+
+---
 # Speed-Typing Game
 
 This project aims to increase your typing speed Octocats! 😄 Here, by me, the author of this project, I allow you to use it, play with my code, and enjoy some fun typing games! 🖥️✨
