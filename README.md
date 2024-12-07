@@ -1,17 +1,13 @@
-### Instructions **`Manual`** File:
-
-
 ---
 
 ## **Table of Contents**
-- [Instructions](#Instructions-Manual-File:)
 - [Features](#features)
 - [How to Play](#How-to-Play)
 - [Modify Time Limit](#Modify-Time-Limit)
 - [Setup and Usage](#setup-and-usage)
 - [Requirements](#Requirements)
 - [License](#license)
-- [Support](#support-this-project)
+- [Support](#\Support-{Me})
 
 ---
 # Speed-Typing Game
@@ -100,6 +96,7 @@ This project is licensed under the Apache-2.0 License - see the [LICENSE](LICENS
 2. **Enjoy the Game**: After compiling and running the program, test your typing speed!
 Author says ~ There is nothing u can do , u can just do what u really can . So stop worrying about what u cannot and focus on what u can really do:). Love u octocats!!
 
-### Support this project
+### \Support {Me}
 **Please donate me🫰here**
-**`☕Ko-fi page:`** [Ko-fi](https://ko-fi.com/putin)
+### **`☕Ko-fi page:`** [Ko-fi](https://ko-fi.com/putin)
+
