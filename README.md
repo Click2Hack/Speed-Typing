@@ -1,4 +1,4 @@
-### **`Manual`** **`File:`*
+### **`Manual`** *`File:`*
 ---
 ## **Table of Contents**
 - [Features](#features)
