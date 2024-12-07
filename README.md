@@ -1,7 +1,7 @@
 ---
 ## **Table of Contents**
 - [Features](#features)
-- [How to Play](#How-to-Play)
+- [How to Play](#how-to-Play)
 - [Modify Time Limit](#Modify-Time-Limit)
 - [Setup and Usage](#setup-and-usage)
 - [Requirements](#Requirements)
