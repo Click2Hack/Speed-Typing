@@ -1,12 +1,12 @@
 ---
 ## **Table of Contents**
 - [Features](#features)
-- [How to Play](How-to-Play)
-- [Modify Time Limit](#Modify-Time-Limit)
+- [How to Play](how-to-Play)
+- [Modify Time Limit](#modify-Time-Limit)
 - [Setup and Usage](#setup-and-usage)
 - [Requirements](#Requirements)
 - [License](#license)
-- [Support](#Support-Me)
+- [Support](#support-Me)
 
 ---
 # Speed-Typing Game
