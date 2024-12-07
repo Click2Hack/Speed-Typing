@@ -1,4 +1,4 @@
-INSTRUCT10NS ;)
+### **`Manual`** File:
 ---
 ## **Table of Contents**
 - [Features](#features)
