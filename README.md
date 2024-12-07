@@ -6,7 +6,7 @@
 - [Setup and Usage](#setup-and-usage)
 - [Requirements](#Requirements)
 - [License](#license)
-- [Support](#Support-/Me)
+- [Support](#Support-Me)
 
 ---
 # Speed-Typing Game
@@ -95,7 +95,6 @@ This project is licensed under the Apache-2.0 License - see the [LICENSE](LICENS
 2. **Enjoy the Game**: After compiling and running the program, test your typing speed!
 Author says ~ There is nothing u can do , u can just do what u really can . So stop worrying about what u cannot and focus on what u can really do:). Love u octocats!!
 
-### Support {/Me}
+### Support Me
 **Please donate me🫰here**
 ### **`☕Ko-fi page:`** [Ko-fi](https://ko-fi.com/putin)
-
